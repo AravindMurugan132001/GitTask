@@ -1,2 +1,3 @@
 1.Practicing git commands
-2.After switching to the traf branch 
+2.After switching to the traf branch
+3.Adding After the second commit.
